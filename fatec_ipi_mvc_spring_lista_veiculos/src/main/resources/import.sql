@@ -1,0 +1,1 @@
+insert into usuario (id, login, senha) values (1, 'Danrley', '1234567')
